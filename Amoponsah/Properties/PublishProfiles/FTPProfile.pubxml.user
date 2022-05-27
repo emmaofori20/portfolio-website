@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win8016.site4now.net/site1</_PublishTargetUrl>
+    <History>False|2022-05-09T11:48:44.3453765Z;False|2022-05-09T11:44:25.2273253+00:00;True|2022-05-01T17:26:42.4573212+00:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Amoponsah.deps.json">
+      <publishTime>05/01/2022 16:56:36</publishTime>
+    </File>
+    <File Include="Amoponsah.dll">
+      <publishTime>05/01/2022 16:56:09</publishTime>
+    </File>
+    <File Include="Amoponsah.exe">
+      <publishTime>05/01/2022 16:56:09</publishTime>
+    </File>
+    <File Include="Amoponsah.pdb">
+      <publishTime>05/01/2022 16:56:09</publishTime>
+    </File>
+    <File Include="Amoponsah.runtimeconfig.json">
+      <publishTime>05/01/2022 16:25:38</publishTime>
+    </File>
+    <File Include="Amoponsah.Views.dll">
+      <publishTime>05/01/2022 16:56:34</publishTime>
+    </File>
+    <File Include="Amoponsah.Views.pdb">
+      <publishTime>05/01/2022 16:56:34</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/30/2022 15:18:20</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/30/2022 15:18:20</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/01/2022 16:58:24</publishTime>
+    </File>
+    <File Include="wwwroot/assests/css/style.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/apple-touch-icon.png">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/favicon.png">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/hero-bg.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-1.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-2.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-3.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-4.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-5.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-6.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-7.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-8.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-9.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-details-1.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-details-2.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/portfolio/portfolio-details-3.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/profile-img.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/testimonials/testimonials-1.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/testimonials/testimonials-2.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/testimonials/testimonials-3.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/testimonials/testimonials-4.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/img/testimonials/testimonials-5.jpg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/js/main.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/aos/aos.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/aos/aos.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap-icons/bootstrap-icons.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap-icons/bootstrap-icons.json">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap-icons/fonts/bootstrap-icons.woff">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap-icons/index.html">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-grid.rtl.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-grid.rtl.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-grid.rtl.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-reboot.rtl.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-utilities.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-utilities.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-utilities.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-utilities.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-utilities.rtl.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap.rtl.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap.rtl.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap.rtl.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/css/bootstrap.rtl.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.esm.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.esm.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.esm.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.esm.min.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/css/animations.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/css/boxicons.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/css/boxicons.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/css/transformations.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/fonts/boxicons.eot">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/fonts/boxicons.svg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/fonts/boxicons.ttf">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/fonts/boxicons.woff">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/boxicons/fonts/boxicons.woff2">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/glightbox/css/glightbox.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/glightbox/css/glightbox.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/glightbox/js/glightbox.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/glightbox/js/glightbox.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/isotope-layout/isotope.pkgd.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/isotope-layout/isotope.pkgd.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/php-email-form/validate.js">
+      <publishTime>11/21/2021 11:50:00</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/purecounter/purecounter.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/swiper/swiper-bundle.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/swiper/swiper-bundle.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/typed.js/typed.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/typed.js/typed.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/typed.js/typed.min.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/assests/vendor/waypoints/noframework.waypoints.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>04/30/2022 15:18:21</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>04/30/2022 15:18:20</publishTime>
+    </File>
+    <File Include="wwwroot/file/resume.pdf">
+      <publishTime>05/01/2022 15:01:57</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>04/30/2022 15:18:21</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/aos/aos.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/aos/aos.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap-icons/bootstrap-icons.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap-icons/bootstrap-icons.json">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap-icons/index.html">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-utilities.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-utilities.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap.rtl.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap.rtl.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.esm.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.esm.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/css/animations.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/css/boxicons.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/css/boxicons.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/css/transformations.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/fonts/boxicons.eot">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/fonts/boxicons.svg">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/fonts/boxicons.ttf">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/fonts/boxicons.woff">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/boxicons/fonts/boxicons.woff2">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/glightbox/css/glightbox.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/glightbox/css/glightbox.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/glightbox/js/glightbox.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/glightbox/js/glightbox.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/isotope-layout/isotope.pkgd.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/isotope-layout/isotope.pkgd.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/php-email-form/validate.js">
+      <publishTime>11/21/2021 11:50:00</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/purecounter/purecounter.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/swiper/swiper-bundle.min.css">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/swiper/swiper-bundle.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/typed.js/typed.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/typed.js/typed.min.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/typed.js/typed.min.js.map">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+    <File Include="wwwroot/vendor/waypoints/noframework.waypoints.js">
+      <publishTime>11/21/2021 10:06:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
